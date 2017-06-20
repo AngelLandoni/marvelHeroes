@@ -1,0 +1,36 @@
+/* 
+  Interface.strings
+  MarvelHeroes
+
+  Created by Angel Land on 5/27/17.
+  Copyright © 2017 Landoni Angel. All rights reserved.
+*/
+
+HeroesTabText = "Heroes";
+StorageTabText = "Storage";
+
+// MARK: - Navigation bar
+
+HeroesNavigationBarTitle = "Marvel Heroes";
+HeroesStoreNavigationBarTitle = "Your Marvel Heroes";
+
+// MARK: - Alerts
+
+AlertOkButtonTile = "Ok";
+
+AlertSaveOkTitle = "Saved";
+AlertSaveOkBody = "The Hero was saved correctly!";
+
+AlertAlreadyExistTitle = "Already exist";
+AlertAlreadyExistBody = "The Hero already saved, check it in the stored section!";
+
+AlertErrorTitle = "Error";
+AlertErrorBody = "Upss... There was an error, please try later :)";
+
+// MARK: - Titles
+
+SearchHeroTitle = "Search a Hero!";
+LoadingTitle = "Loading...";
+ThereAreNotHeroes = "There are not Heroes related with your search, PANIC!";
+Typing = "Typing ...";
+YouDoNotHaveHeroes = "There are not Heroes here!, add some on the Heroes section.";
